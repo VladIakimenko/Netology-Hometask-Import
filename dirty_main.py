@@ -1,7 +1,7 @@
 from datetime import datetime
+from random import choice
 
 from colorama import init, Fore
-from random import choice
 
 from application import *
 
